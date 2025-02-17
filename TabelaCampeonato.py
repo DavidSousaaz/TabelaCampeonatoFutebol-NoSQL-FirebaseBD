@@ -4,11 +4,11 @@ from firebase_admin import credentials, db
 import sys
 
 # Caminho para o arquivo JSON da chave privada
-cred = credentials.Certificate(r"C:\BD\tabela-campeonato-de-futebol-firebase-adminsdk-fbsvc-9e3a4b3374.json")
+cred = credentials.Certificate(r"Digite o diretorio do arquivo aqui!!")
 
 # Inicializar o Firebase com as credenciais
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://tabela-campeonato-de-futebol-default-rtdb.firebaseio.com/'
+    'databaseURL': 'URL do seu firebase!!'
 })
 
 # Referência para a tabela "times"
@@ -76,7 +76,7 @@ class TabelaClassificacao(QMainWindow):
         self.table.setRowCount(len(times_ordenados))
 
         for i, (sigla, value) in enumerate(times_ordenados):
-            self.table.setItem(i, 0, QTableWidgetItem(str(sigla)))  # Sigla usada como ID
+            self.table.setItem(i, 0, QTableWidgetItem(str(sigla)))
             self.table.setItem(i, 1, QTableWidgetItem(value["nome"]))
             self.table.setItem(i, 2, QTableWidgetItem(str(value["vitorias"])))
             self.table.setItem(i, 3, QTableWidgetItem(str(value["empates"])))
@@ -180,8 +180,8 @@ def remover_equipe():
 
 def menu():
 
-    app = QApplication(sys.argv)  # Criamos o QApplication uma única vez
-    tabela_window = TabelaClassificacao()  # Criamos a janela da tabela apenas uma vez
+    app = QApplication(sys.argv)
+    tabela_window = TabelaClassificacao()
 
     while True:
         print("\n--- MENU ---")
@@ -195,9 +195,9 @@ def menu():
 
         if opcao == '1':
             print("\nAbrindo tabela de classificação...\n")
-            tabela_window.atualizar_tabela()  # Atualiza a tabela antes de mostrar
+            tabela_window.atualizar_tabela()
             tabela_window.showMaximized()
-            app.exec_()  # Mantém o loop da interface gráfica rodando
+            app.exec_()
         elif opcao == '2':
             atualizar_pontuacao()
         elif opcao == '3':
@@ -206,7 +206,7 @@ def menu():
             remover_equipe()
         elif opcao == '5':
             print("\nSaindo...\n")
-            sys.exit(0)  # Encerra corretamente o programa
+            sys.exit(0)
         else:
             print("\nOpção inválida! Tente novamente.\n")
 
