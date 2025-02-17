@@ -1,0 +1,144 @@
+{
+  "times": {
+    "AMA": {
+      "nome": "Amazonas",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "AME": {
+      "nome": "América-MG",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "ATH": {
+      "nome": "Athletic",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "ATG": {
+      "nome": "Atlético-GO",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "ATP": {
+      "nome": "Athlético-PR",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "AVA": {
+      "nome": "Avaí",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "BOT-SP": {
+      "nome": "Botafogo-SP",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "CHA": {
+      "nome": "Chapecoense",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "CRB": {
+      "nome": "CRB",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "CRI": {
+      "nome": "Criciúma",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "COR": {
+      "nome": "Coritiba",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "CUI": {
+      "nome": "Cuiabá",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "FER": {
+      "nome": "Ferroviária",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "GOI": {
+      "nome": "Goiás",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "NOV": {
+      "nome": "Novorizontino",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "OPE": {
+      "nome": "Operário",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "PAY": {
+      "nome": "Paysandu",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "REM": {
+      "nome": "Remo",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "VIL": {
+      "nome": "Vila Nova",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "VRD": {
+      "nome": "Volta Redonda",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    }
+  }
+}

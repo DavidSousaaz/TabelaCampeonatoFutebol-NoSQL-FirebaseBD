@@ -1,0 +1,144 @@
+{
+  "times": {
+    "CAM": {
+      "nome": "Atlético-MG",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "BAH": {
+      "nome": "Bahia",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "BOT": {
+      "nome": "Botafogo",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "CEA": {
+      "nome": "Ceará",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "COR": {
+      "nome": "Corinthians",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "CRU": {
+      "nome": "Cruzeiro",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "FLA": {
+      "nome": "Flamengo",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "FLU": {
+      "nome": "Fluminense",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "FOR": {
+      "nome": "Fortaleza",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "JUV": {
+      "nome": "Juventude",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "GRE": {
+      "nome": "Grêmio",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "INT": {
+      "nome": "Internacional",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "MIR": {
+      "nome": "Mirassol",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "PAL": {
+      "nome": "Palmeiras",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "RBB": {
+      "nome": "RB Bragantino",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "SAN": {
+      "nome": "Santos",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "SAO": {
+      "nome": "São Paulo",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "SPO": {
+      "nome": "Sport",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "VAS": {
+      "nome": "Vasco",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    },
+    "VIT": {
+      "nome": "Vitória",
+      "vitorias": 0,
+      "empates": 0,
+      "derrotas": 0,
+      "pontos": 0
+    }
+  }
+}
